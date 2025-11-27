@@ -2,6 +2,13 @@
 
 Explorer‑style **hover** for `SysListView32` that keeps the hot row in sync while the list scrolls under a stationary pointer (mouse wheel or precision touchpad). No overlays. Single shared manager timer. Multi‑ListView ready.
 
+## Why this exists
+
+Ever hovered a ListView and lost the highlight the moment you scroll?  
+Ever clicked twice because the “hot row” slipped under your mouse?
+
+**CreateLVHover** fixes that tiny, daily frustration. It keeps the hot row in sync while the list moves beneath a stationary pointer — mouse wheel or precision touchpad. No overlays, no hacks, no flicker. One shared manager timer. Works across multiple ListViews.
+
 ---
 
 ## Quick start
