@@ -9,6 +9,11 @@ Ever clicked twice because the “hot row” slipped under your mouse?
 
 **CreateLVHover** fixes that tiny, daily frustration. It keeps the hot row in sync while the list moves beneath a stationary pointer — mouse wheel or precision touchpad. No overlays, no hacks, no flicker. One shared manager timer. Works across multiple ListViews.
 
+If this helps you, consider sponsoring or buying me a coffee — it keeps the lights on and the code clean. ☕
+
+<a href="https://buymeacoffee.com/onetapdeploy" 
+    target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ---
 
 ## Quick start
