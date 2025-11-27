@@ -174,6 +174,12 @@ Then in `MyApp.ahk`:
 
 ---
 
+## Flowchart 
+
+![Flowdiagram ListView Hover-2025-11-27-151041](https://github.com/user-attachments/assets/c1497842-fec9-4a85-9502-1b6a16e7de96)
+
+---
+
 ## License
 
 This project is licensed under the terms described in the accompanying **LICENSE** file.
